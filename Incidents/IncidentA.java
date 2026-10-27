@@ -1,5 +1,10 @@
 package Incidents;
 
+/*Uppdrag 1 - För varje incident ska ni först gissa vad som händer innan ni kör koden. Svara sedan på: När upptäcks felet?
+Vilken feltyp/exception är det? Bör felet rättas,fångas eller hanteras på annat sätt? 
+Incident A - Energin
+*/
+
 public class IncidentA {
 
     public static void main(String[] args) {
